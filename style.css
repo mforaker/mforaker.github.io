@@ -11,3 +11,12 @@ p {
 	font-family: verdana;
 	font-size: 20px;
 }
+#progressbar {
+	background-color: black;
+}
+
+#progressbar>div {
+	background-color: teal;
+	height: 20px;
+	border-radius: 10px;
+}
